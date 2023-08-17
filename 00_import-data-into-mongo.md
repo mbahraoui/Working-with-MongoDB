@@ -4,9 +4,9 @@ Importing data into MongoDB using the `mongoimport` tool.
 
 ## Importing JSON Data
 
-![mongoimport movies.json](image.png)
+![mongoimport movies.json](images/image.png)
 
 ## Importing CSV Files
 
-![mongoimport ratings.csv](image-1.png)
+![mongoimport ratings.csv](images/image-1.png)
 
