@@ -4,47 +4,47 @@
 
 #### Create a new database called employee_db
 
-![new db](image-2.png)
+![new db](images/image-2.png)
 
 #### Create a collection called employee_info
 
-![Alt text](image-3.png)
+![Alt text](images/image-3.png)
 
 #### Insert data into our collection
 
-![Alt text](image-5.png)
+![Alt text](images/image-5.png)
 
-![Alt text](image-7.png)
+![Alt text](images/image-7.png)
 
 ## Counting Record
 
-![Alt text](image-6.png)
+![Alt text](images/image-6.png)
 
 #### count distinct values
 
-![Alt text](image-8.png)
+![Alt text](images/image-8.png)
 
 ## Filtering on a single field
 
-![Alt text](image-9.png)
+![Alt text](images/image-9.png)
 
 ## Filtering on multiple fields
 
-![Alt text](image-10.png)
+![Alt text](images/image-10.png)
 
 ## Filtering embedded documents
 
-![Alt text](image-11.png)
+![Alt text](images/image-11.png)
 
 ## Projections
 
-![Alt text](image-12.png)
+![Alt text](images/image-12.png)
 
 ## Update Operations
 
-![Alt text](image-13.png)
+![Alt text](images/image-13.png)
 
-![Alt text](image-14.png)
+![Alt text](images/image-14.png)
 
 MongoDB offers multiple operators that can be used in its update operations. In the exercise above, we looked at the `$set` operator. 
 
@@ -62,6 +62,6 @@ MongoDB offers multiple operators that can be used in its update operations. In 
 
 ## Delete Operations
 
-![Alt text](image-15.png)
+![Alt text](images/image-15.png)
 
-![Alt text](image-16.png)
+![Alt text](images/image-16.png)
